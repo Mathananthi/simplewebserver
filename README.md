@@ -53,6 +53,7 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![Alt text](<Screenshot (6).png>)
+![Screenshot (5)](https://github.com/Mathananthi/simplewebserver/assets/135731816/449fb543-0cc1-47d9-b62e-46966a27792f)
 
 
 
